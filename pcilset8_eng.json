@@ -218,5 +218,335 @@
       "D": "Extended term insurance"
     },
     "answer": ""
+  },
+  {
+    "questionNumber": 21,
+    "question": "The schedule of the fire policy does NOT contain _______.",
+    "options": {
+      "A": "the name of the insurer, period of insurance.",
+      "B": "the details of claims conditions and procedures.",
+      "C": "the business/occupation, location of property insured.",
+      "D": "the name and the address of the insured, the amount of premium."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 22,
+    "question": "Which of the following in NOT a key regulatory objectives of Bank Negara Malaysia in relation to the insurance sector?",
+    "options": {
+      "A": "To promote monetary and financial stability conducive to the sustainable growth of the economy.",
+      "B": "To keep a close watch on solvency and market conduct to enhance professional standards and consumer confidence.",
+      "C": "To foster fair, responsible and professional business conduct to financial institutions.",
+      "D": "To protect shareholders of insurance companies against bankruptcies and insolvencies."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 23,
+    "question": "Key considerations in investment includes _______.\nI. Funds available\nII. Types of assets\nIII. Taxation treatment\nIV. Accessibility of funds",
+    "options": {
+      "A": "I and II",
+      "B": "II and III",
+      "C": "I, III and IV",
+      "D": "II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 24,
+    "question": "When in doubt about the code of conduct, employees can seek guidance from _______.\nI. an experienced agent\nII. The company\u2019s management\nIII. Bank Negara Malaysia\nIV. Their respective heads of department.",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "II, III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 25,
+    "question": "The parties to the contract under a group medical and health insurance scheme, are _______.",
+    "options": {
+      "A": "the beneficiary, the employees, the employer and the insurance company.",
+      "B": "the employees and the employer.",
+      "C": "the employees, the employer and the insurance company.",
+      "D": "the employer and the insurer."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 26,
+    "question": "Choose the correct statement.",
+    "options": {
+      "A": "Speculative risks are insurable.",
+      "B": "Speculative risks are always catastrophic in nature.",
+      "C": "Pure risks are uninsurable",
+      "D": "There is the possibility of a gain in a speculative risk."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 27,
+    "question": "Insurance brokers, financial advisers and registered adjusters are required to be incorporated as ________.",
+    "options": {
+      "A": "public companies,",
+      "B": "unlimited companies",
+      "C": "registered companies",
+      "D": "private companies."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 28,
+    "question": "Choose the false statement regarding insurable interest.",
+    "options": {
+      "A": "A company has an insurable interest in the life if a director or a manager who occupies a key position in the company",
+      "B": "A creditor has an insurable interest in the life of the debtor to the extend of the debt.",
+      "C": "A husband has an insurable interest on the life of his wife.",
+      "D": "Insurable interest can never exist among partners in a relationship."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 29,
+    "question": "With regard to the principle of indemnity, payment for loss or damage is _______.",
+    "options": {
+      "A": "subject to negotiation between parties to the contract.",
+      "B": "limited to the actual amount of the loss or damage, irrespective of the sum insured.",
+      "C": "the sum insured.",
+      "D": "limited to the actual amount of the loss or damage, subject to the adequacy of the sum insured."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 30,
+    "question": "Which of the following is NOT essential for an insurance contract?",
+    "options": {
+      "A": "Ratification by a lawyer",
+      "B": "Offer and acceptance",
+      "C": "Consensus and idem",
+      "D": "Consideration"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 31,
+    "question": "Question 31 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 32,
+    "question": "Question 32 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 33,
+    "question": "Question 33 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 34,
+    "question": "Question 34 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 35,
+    "question": "Question 35 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 36,
+    "question": "Question 36 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 37,
+    "question": "Question 37 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 38,
+    "question": "Question 38 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 39,
+    "question": "Question 39 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 40,
+    "question": "Question 40 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 41,
+    "question": "Question 41 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 42,
+    "question": "Question 42 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 43,
+    "question": "Question 43 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 44,
+    "question": "Question 44 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 45,
+    "question": "Question 45 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 46,
+    "question": "Question 46 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 47,
+    "question": "Question 47 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 48,
+    "question": "Question 48 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 49,
+    "question": "Question 49 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 50,
+    "question": "Question 50 text goes here.",
+    "options": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "answer": ""
   }
 ]
